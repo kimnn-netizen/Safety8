@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -62,7 +62,7 @@
     </ul>
 
     <h2>2. 我们如何使用信息</h2>
-    <p>我们使用上述信息 solely for the following purposes:</p>
+    <p>我们使用上述信息仅用于以下目的：</p>
     <ul>
         <li><strong>提供核心功能</strong>：实时监测和匹配网页文本内容，并据此提供高亮显示和弹窗提醒功能。</li>
         <li><strong>保存您的偏好</strong>：记住您自定义的关键词列表、高亮颜色和其他设置，以便您获得一致的体验。</li>
